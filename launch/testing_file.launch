@@ -1,0 +1,5 @@
+<launch>
+	<node type="publisher_1.py" name="publisher" pkg="my_testing_files"/>
+	<node type="publisher_1.py" name="publisher" pkg="my_testing_files"/>	
+
+</launch>
