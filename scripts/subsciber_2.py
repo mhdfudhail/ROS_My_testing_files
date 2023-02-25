@@ -24,3 +24,4 @@ if __name__== '__main__':
         rate.sleep()
 
 #does it work 
+print("hello")
